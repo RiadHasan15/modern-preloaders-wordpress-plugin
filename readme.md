@@ -11,7 +11,9 @@ A modern WordPress plugin that adds 25 beautiful CSS preloaders to your website 
 - ✅ Pure CSS and lightweight JavaScript
 - ✅ Fully responsive and mobile-friendly
 
+📸 Screenshots
 
+    Preloader Settings Panel – Admin interface with live preview and grid selection
 
 ## 🔧 Installation
 
