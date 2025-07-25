@@ -13,7 +13,8 @@ A modern WordPress plugin that adds 25 beautiful CSS preloaders to your website 
 
 ## 📸 Screenshots
 
-1. **Preloader Settings Panel** – Admin interface with live preview and grid selection  
+   **Preloader Settings Panel** – Admin interface with live preview and grid selection 
+
    ![Preloader Settings Panel](https://i.postimg.cc/66Vtfsdj/image.png)
 
 ## 🔧 Installation
