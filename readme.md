@@ -4,24 +4,24 @@ A modern WordPress plugin that adds 25 beautiful CSS preloaders to your website 
 
 ## 🎯 Features
 
-- ✅ 25 unique, animated CSS loaders
-- ✅ Live preview inside WordPress admin
-- ✅ Grid selection with radio buttons
-- ✅ Enable/disable preloader globally
-- ✅ Pure CSS and lightweight JavaScript
-- ✅ Fully responsive and mobile-friendly
+- ✅ 25 unique, animated CSS loaders  
+- ✅ Live preview inside WordPress admin  
+- ✅ Grid selection with radio buttons  
+- ✅ Enable/disable preloader globally  
+- ✅ Pure CSS and lightweight JavaScript  
+- ✅ Fully responsive and mobile-friendly  
 
-📸 Screenshots
+## 📸 Screenshots
 
-Preloader Settings Panel – Admin interface with live preview and grid selection
-https://i.postimg.cc/66Vtfsdj/image.png
+1. **Preloader Settings Panel** – Admin interface with live preview and grid selection  
+   ![Preloader Settings Panel](https://i.postimg.cc/66Vtfsdj/image.png)
 
 ## 🔧 Installation
 
-1. Upload the plugin folder to `/wp-content/plugins/`
-2. Activate the plugin via the **Plugins** screen
-3. Go to **Settings → Preloader Settings**
-4. Enable and select a loader you like
+1. Upload the plugin folder to `/wp-content/plugins/`  
+2. Activate the plugin via the **Plugins** screen  
+3. Go to **Settings → Preloader Settings**  
+4. Enable and select a loader you like  
 
 ## 💡 FAQ
 
